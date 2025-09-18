@@ -85,9 +85,7 @@ The type of action space influences the choice of RL algorithm.
 ### Formula
 Expected discounted cumulative reward at time step `t`:
 
-\[
-G_t = R_{t+1} + \gamma R_{t+2} + \gamma^2 R_{t+3} + \dots
-\]
+
 
 ---
 <img width="1400" height="648" alt="image" src="https://github.com/user-attachments/assets/293dc8b8-ddf4-4518-b5ef-f5c9a08352bc" />
