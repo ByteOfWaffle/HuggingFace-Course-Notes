@@ -8,6 +8,7 @@ Notes from the huggingface Deep Reinforcment Learning course
 - RL is a loop of:
   **State → Action → Reward → Next State**
 - Source: *Reinforcement Learning: An Introduction* by Sutton & Barto
+<img width="1400" height="787" alt="image" src="https://github.com/user-attachments/assets/587bd444-6ac3-490c-90b2-0dbba3d22cc6" />
 
 ### Example: Platform Game
 1. Agent receives initial state `S0` (first game frame).
@@ -17,6 +18,7 @@ Notes from the huggingface Deep Reinforcment Learning course
 5. Loop continues: `(State, Action, Reward, Next State)`.
 
 **Goal of the Agent**: Maximize *cumulative reward* (expected return).
+<img width="1305" height="576" alt="image" src="https://github.com/user-attachments/assets/d5c4d87c-12f2-47a8-bbe3-4e1fc16662a4" />
 
 ---
 
