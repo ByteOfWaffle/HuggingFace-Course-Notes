@@ -89,7 +89,8 @@ Expected discounted cumulative reward at time step `t`:
 
 ---
 <img width="1400" height="648" alt="image" src="https://github.com/user-attachments/assets/293dc8b8-ddf4-4518-b5ef-f5c9a08352bc" />
-
+what the fuck
+why did this math shit happen
 ## Recap
 - RL loop: `State → Action → Reward → Next State`.
 - Agent maximizes **expected discounted cumulative reward**.
